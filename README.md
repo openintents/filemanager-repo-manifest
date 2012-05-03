@@ -7,5 +7,4 @@ http://source.android.com/source/downloading.html).
 
 Getting all of the projects is achieved by running the following
 
-repo init -u https://github.com/openintents/filemanager-repo-manifest.git
-repo sync
+repo init -u https://github.com/openintents/filemanager-repo-manifest.git ; repo sync
